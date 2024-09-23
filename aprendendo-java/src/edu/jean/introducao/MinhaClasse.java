@@ -1,4 +1,4 @@
-package edu.jean.segundasemana;
+package edu.jean.introducao;
 public class MinhaClasse {
     public static void main (String [] args) {
         String primeiroNome = "Jean";
