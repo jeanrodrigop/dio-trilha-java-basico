@@ -1,3 +1,4 @@
+package edu.desafios.contaBanco;
 import java.util.Scanner;
 
 public class ContaTerminal {
